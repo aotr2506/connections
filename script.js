@@ -93,7 +93,7 @@ const rounds = [
         {
           name: "Words that Precede 'Light'",
           description: "Words that can be combined with 'light' to form common terms.",
-          words: ["Head", "Spot", "Sun", "Light"],
+          words: ["Head", "Spot", "Sun", "Moon"],
           color: "#8bc34a" // Light Green
         },
         {
